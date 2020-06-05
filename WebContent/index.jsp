@@ -11,4 +11,3 @@ Hi
 <img alt="" src="/web/ss.jpg">
 </body>
 
-</html>
